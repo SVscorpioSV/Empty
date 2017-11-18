@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SVscorpioSV/Empty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SVscorpioSV/Empty/issues"
+  },
+  "homepage": "https://github.com/SVscorpioSV/Empty#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
